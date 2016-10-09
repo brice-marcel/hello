@@ -3,7 +3,6 @@
     font-style:oblique;
     line-height:15px;
     font-weight:bold;
-    font-family:'AlexBrush-Regular', Lucuda,sans-serif;
 
 }
 .para2{
@@ -18,4 +17,9 @@
     font-family: 'AlexBrush-Regular';
     src: url('AlexBrush-Regular.ttf') format('ttf');
 }
-
+h1{
+font-family:'AlexBrush-Regular', Lucuda,sans-serif;
+text-align:center;
+font-size: 50px;
+color:blue;
+}
